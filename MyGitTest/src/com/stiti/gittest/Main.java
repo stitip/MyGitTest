@@ -13,8 +13,6 @@ public class Main {
 		System.out.println("Employee \"" + emp.getEmpId() + " - " + emp.getFirstName() + " " + emp.getLastName() + "\" added successfully.");
 		
 		System.out.println("New change...");
-		
-		System.out.println("Test 2");
 
 	}
 
